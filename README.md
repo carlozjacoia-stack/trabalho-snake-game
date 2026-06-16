@@ -16,13 +16,11 @@ A ideia do projeto foi implementar um Snake Game, conhecido popularmente como Jo
 * Joystick
 * Jumpers
 
-# Protoboard no Tinkercad
+# Circuito no [Wokwi](https://wokwi.com/projects/467008884297857025)
 ![protoboard no tinkercard]()
 
 # Imagens do projeto
 ![img1]()
-![img2]()
-![img3]()
 
 # Vídeo explicativo sobre o projeto
 [![IMAGE ALT TEXT HERE]()
