@@ -19,7 +19,7 @@ A ideia do projeto foi implementar um Snake Game, conhecido popularmente como Jo
 # Circuito no [Wokwi](https://wokwi.com/projects/467008884297857025)
 ![protoboard no wokwi](https://github.com/carlozjacoia-stack/trabalho-snake-game/blob/main/wokwi.png)
 
-# Imagens do projeto
+# Foto do projeto
 ![img1]()
 
 # Vídeo explicativo sobre o projeto
