@@ -17,7 +17,7 @@ A ideia do projeto foi implementar um Snake Game, conhecido popularmente como Jo
 * Jumpers
 
 # Circuito no [Wokwi](https://wokwi.com/projects/467008884297857025)
-![protoboard no tinkercard]()
+![protoboard no wokwi](https://github.com/carlozjacoia-stack/trabalho-snake-game/blob/main/wokwi.png)
 
 # Imagens do projeto
 ![img1]()
