@@ -26,4 +26,4 @@ A ideia do projeto foi implementar um Snake Game, conhecido popularmente como Jo
 
 
 # Vídeo explicativo sobre o projeto
-[![IMAGE ALT TEXT HERE](https://youtube.com/shorts/0APSVDUCMD4?si=eRVdtBvbDrgcKyEp)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0APSVDUCMD4/0.jpg)](https://youtube.com/shorts/0APSVDUCMD4?si=eRVdtBvbDrgcKyEp)
