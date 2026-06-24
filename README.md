@@ -20,7 +20,10 @@ A ideia do projeto foi implementar um Snake Game, conhecido popularmente como Jo
 ![protoboard no wokwi](https://github.com/carlozjacoia-stack/trabalho-snake-game/blob/main/wokwi.png)
 
 # Foto do projeto
-![img1]()
+![img1](https://github.com/carlozjacoia-stack/trabalho-snake-game/blob/main/foto_projeto1.jpeg)
+![img2](https://github.com/carlozjacoia-stack/trabalho-snake-game/blob/main/foto_projeto2.jpeg)
+![img3](https://github.com/carlozjacoia-stack/trabalho-snake-game/blob/main/foto_projeto3.jpeg)
+
 
 # Vídeo explicativo sobre o projeto
 [![IMAGE ALT TEXT HERE]()
