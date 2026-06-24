@@ -144,9 +144,7 @@ void Update(){
 
   bool comeu = (newHead[0] == apple.rPos &&
                 newHead[1] == apple.cPos);
-
-  // ✅ Verifica colisão com o corpo ANTES de modificar o array
-  // Se não comeu, o rabo vai sair — então ignora a posição [0]
+  
   int inicioVerificacao = comeu ? 0 : 1;
   for(int j = inicioVerificacao; j < snake.len; j++){
     if(snake.body[j][0] == newHead[0] &&
