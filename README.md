@@ -5,9 +5,9 @@ A ideia do projeto foi implementar um Snake Game, conhecido popularmente como Jo
 ![gif](https://upload.wikimedia.org/wikipedia/commons/5/55/Snake_can_be_completed.gif?_=20130409155542)
 
 # Alunos
-  * Carloz Eduardo Rosa Jacoia #16859644
-  * Luana Sampaio de Oliveira #17827254
-  * Rafael Tiosso Brancalhão #17921072
+  * Carloz Eduardo Rosa Jacoia
+  * Luana Sampaio de Oliveira
+  * Rafael Tiosso Brancalhão
 
 # Componentes
 * Arduino UNO
